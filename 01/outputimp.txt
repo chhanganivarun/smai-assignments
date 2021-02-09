@@ -1,0 +1,25 @@
+Is UCShape>3.5
+True Branch
+  Is NN>1.5
+  True Branch
+    Is MA>1.5
+    True Branch
+      2
+    False Branch
+      2
+  False Branch
+    Is SECSize>1.5
+    True Branch
+      2
+    False Branch
+      2
+False Branch
+  Is CT>2.5
+  True Branch
+    4
+  False Branch
+    Is CT>2.5
+    True Branch
+      2
+    False Branch
+      4
