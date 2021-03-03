@@ -1,0 +1,41 @@
+Is UCSize>3.5
+True Branch
+  Is CT>2.5
+  True Branch
+    Is MA>0.5
+    True Branch
+      2
+    False Branch
+      2
+  False Branch
+    Is CT>2.5
+    True Branch
+      2
+    False Branch
+      Is CT>2.5
+      True Branch
+        2
+      False Branch
+        Is CT>2.5
+        True Branch
+          2
+        False Branch
+          2
+False Branch
+  Is CT>2.5
+  True Branch
+    4
+  False Branch
+    Is CT>2.5
+    True Branch
+      2
+    False Branch
+      Is CT>2.5
+      True Branch
+        2
+      False Branch
+        Is CT>2.5
+        True Branch
+          2
+        False Branch
+          4
